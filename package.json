@@ -1,0 +1,14 @@
+{
+  "name": "icon-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ."
+  },
+  "author": "Alfatta Rezqa <arwinnersyah@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.10.0"
+  }
+}
