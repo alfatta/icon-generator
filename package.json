@@ -9,6 +9,6 @@
   "author": "Alfatta Rezqa <arwinnersyah@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.10.0"
+    "jimp": "^0.22.7"
   }
 }
